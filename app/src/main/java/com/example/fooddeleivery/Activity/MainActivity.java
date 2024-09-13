@@ -17,6 +17,7 @@ import com.example.fooddeleivery.R;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
+    String changes ;
 private RecyclerView.Adapter adapter;
 private RecyclerView recyclerViewCategoryList;
     @Override
